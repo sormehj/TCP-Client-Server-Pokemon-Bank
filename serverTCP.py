@@ -4,7 +4,6 @@ import random
 import time
 import os
 
-#UMBC ID:CK58777
 
 #holds the entire bank in memory
 bank = {}
